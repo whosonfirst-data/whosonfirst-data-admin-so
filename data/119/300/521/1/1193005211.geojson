@@ -57,7 +57,7 @@
         "wk:page":"Dhahar"
     },
     "wof:country":"SO",
-    "wof:geomhash":"514cf10f3e266b18331289b944d1eacb",
+    "wof:geomhash":"10f2d2d64027b1f2fa2df23a9816e4e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     48.82194000000001,
     9.74917
 ],
-  "geometry": {"coordinates":[48.82194000000001,9.74917],"type":"Point"}
+  "geometry": {"coordinates":[48.82194,9.74917],"type":"Point"}
 }

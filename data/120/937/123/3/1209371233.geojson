@@ -38,7 +38,7 @@
         "gn:id":64632
     },
     "wof:country":"SO",
-    "wof:geomhash":"6eff1c5b7e0b3deaae0ca8195abacf0b",
+    "wof:geomhash":"74edcd57008054731b8edbbd7252d143",
     "wof:hierarchy":[
         {
             "country_id":85632379,
@@ -61,5 +61,5 @@
     48.9,
     9.0
 ],
-  "geometry": {"coordinates":[48.9,9.0],"type":"Point"}
+  "geometry": {"coordinates":[48.9,9],"type":"Point"}
 }

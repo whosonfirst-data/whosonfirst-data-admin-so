@@ -48,7 +48,7 @@
         "wk:page":"Baligubadle"
     },
     "wof:country":"SO",
-    "wof:geomhash":"c940e864f8a1e4ef275efca584d59134",
+    "wof:geomhash":"70cab7484cae32b760d9ad329a88e21e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     44.00028,
     9.0
 ],
-  "geometry": {"coordinates":[44.00028,9.0],"type":"Point"}
+  "geometry": {"coordinates":[44.00028,9],"type":"Point"}
 }

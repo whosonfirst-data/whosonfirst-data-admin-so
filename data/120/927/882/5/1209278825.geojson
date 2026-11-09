@@ -42,7 +42,7 @@
         "gn:id":58784
     },
     "wof:country":"SO",
-    "wof:geomhash":"f9b3e7fca98282fbe7c02ec87ffa6cef",
+    "wof:geomhash":"2f11ed28cbbaed6cf6a442723dda0a5a",
     "wof:hierarchy":[
         {
             "country_id":85632379,
@@ -65,5 +65,5 @@
     43.41934000000001,
     9.82916
 ],
-  "geometry": {"coordinates":[43.41934000000001,9.82916],"type":"Point"}
+  "geometry": {"coordinates":[43.41934,9.82916],"type":"Point"}
 }

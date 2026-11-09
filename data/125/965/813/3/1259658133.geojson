@@ -41,7 +41,7 @@
         "gn:id":64864
     },
     "wof:country":"SO",
-    "wof:geomhash":"9ae695aaf6d480921f3ec890e1d4965a",
+    "wof:geomhash":"9f0f2ea1c0cd443ee40c144a6cfdcc32",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     44.49854000000001,
     9.08221
 ],
-  "geometry": {"coordinates":[44.49854000000001,9.08221],"type":"Point"}
+  "geometry": {"coordinates":[44.49854,9.08221],"type":"Point"}
 }

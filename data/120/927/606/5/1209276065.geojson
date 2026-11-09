@@ -66,7 +66,7 @@
         "wk:page":"Arabsiyo"
     },
     "wof:country":"SO",
-    "wof:geomhash":"a20bf93ebe62d1526d75b5508c814e6d",
+    "wof:geomhash":"8a64741a16863e9677a9f2dae60f4ad5",
     "wof:hierarchy":[
         {
             "country_id":85632379,
@@ -89,5 +89,5 @@
     43.76217000000001,
     9.67916
 ],
-  "geometry": {"coordinates":[43.76217000000001,9.67916],"type":"Point"}
+  "geometry": {"coordinates":[43.76217,9.67916],"type":"Point"}
 }

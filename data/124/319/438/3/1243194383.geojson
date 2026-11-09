@@ -42,7 +42,7 @@
         "wk:page":"El_Mergis"
     },
     "wof:country":"SO",
-    "wof:geomhash":"daefba83837912059b79dcec7a8fa647",
+    "wof:geomhash":"a671fcaadad375a81748ec9428d12f39",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     41.6,
     2.0
 ],
-  "geometry": {"coordinates":[41.6,2.0],"type":"Point"}
+  "geometry": {"coordinates":[41.6,2],"type":"Point"}
 }
