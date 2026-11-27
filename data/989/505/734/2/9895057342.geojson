@@ -1,0 +1,75 @@
+{
+  "id": 9895057342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4664,5.69935,48.4664,5.69935",
+    "geom:latitude":5.69935,
+    "geom:longitude":48.4664,
+    "gn:population":2300,
+    "iso:country":"SO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12534558: name \"Diga gaw\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12534558"
+        },
+        {
+            "citation":"GeoNames populated place 12534558: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12534558"
+        },
+        {
+            "citation":"GeoNames populated place 12534558: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12534558"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108757851 (Hobyo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379,
+        85677279,
+        102191573,
+        1108757851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12534558
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5b8e5cdfa901cd924c17d60196ad816f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757851,
+            "locality_id":9895057342,
+            "region_id":85677279
+        }
+    ],
+    "wof:id":9895057342,
+    "wof:lastmodified":1795735169,
+    "wof:name":"Diga gaw",
+    "wof:parent_id":1108757851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4664,
+    5.69935,
+    48.4664,
+    5.69935
+],
+  "geometry": {"coordinates":[48.4664,5.69935],"type":"Point"}
+}

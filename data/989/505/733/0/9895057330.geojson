@@ -1,0 +1,74 @@
+{
+  "id": 9895057330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31338,6.0807,46.31338,6.0807",
+    "geom:latitude":6.0807,
+    "geom:longitude":46.31338,
+    "iso:country":"SO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10297458: name \"Bangeelle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10297458"
+        },
+        {
+            "citation":"GeoNames populated place 10297458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10297458"
+        },
+        {
+            "citation":"GeoNames populated place 10297458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10297458"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108757821 (Cabudwaaq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379,
+        85677267,
+        102191573,
+        1108757821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10297458
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"731f5a59c38ce5904987fa56be2452f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757821,
+            "locality_id":9895057330,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":9895057330,
+    "wof:lastmodified":1795735169,
+    "wof:name":"Bangeelle",
+    "wof:parent_id":1108757821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31338,
+    6.0807,
+    46.31338,
+    6.0807
+],
+  "geometry": {"coordinates":[46.31338,6.0807],"type":"Point"}
+}
